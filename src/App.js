@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <img src={require("./images/epson.png")} ></img>
       </header>
     </div>
   );
